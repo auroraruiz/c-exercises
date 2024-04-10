@@ -1,0 +1,43 @@
+Title: C Programming Full Course for free
+Tutorial: https://www.youtube.com/watch?v=87SH2Cn0s9A
+
+C is a midel level language that originated in the 1970s
+One of the most widely used languages in the world
+
+Levels
+High: python, java, c#, javascript
+Medium: c, c++
+Low: asssembly, machine language
+
+Low level languages are:
+1. Efficient
+2. Close to machine architecture
+3. Require less memory
+4. FAST
+
+5. Difficult to understand
+6. Time consuming to write
+
+High level languages are:
+1. Easier to work with
+2. Easier to understand
+3. Allow for more abstraction
+
+4. Slow
+5. Use more memory
+6. Difficult to work with low level hardware and systems
+
+Middle level languages act as a bridge between high level sofware and
+applications and low level hardware and embeded systems
+Most compilers, kernels and os are written in C.
+Python is written in C. The default implementation is CPython.
+
+Important notes:
+1. C is NOT object oriented. it is procedural, not abstract.
+2. C++ is an OO extension of C
+3. C is difficult
+
+What you'll need:
+1. IDE (text editor)
+2. GCC compiler (converts C code into machine code)
+
