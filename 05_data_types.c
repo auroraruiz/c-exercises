@@ -30,7 +30,7 @@ int main(){
     int j  = 84739874; // 4 bytes (-2,147,483,648 to +2,147,483,647)    %d
     unsigned int k = 4294967295; // 4 bytes (0 to 4,294,967,295)     %u
     
-    // Aregular int is considered a long int 
+    // A regular int is considered a long int 
     long long int l = 9223372036854775807; // 8 bytes (-9 quintillion to +9 quintillion)  %lld
     unsigned long long int m = 18446744073709551615U; // 8 bytes (0 to +18 quintillion)  %llu
     
