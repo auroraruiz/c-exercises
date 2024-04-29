@@ -12,7 +12,7 @@ int main(){
     const int MAX = 10;
 
     printf("************************************\n"
-            "Welcome to the number guessing name!\n"
+            "Welcome to the number guessing game!\n"
             "The game has the following instructions:\n"
             "I'll think of a number between %i and %i.\n"
             "You have three guesses.\n"
