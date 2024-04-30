@@ -29,8 +29,8 @@ int main(){
     printf("Memory address of age: %p\n", &age);
     printf("Value of pAge: %p\n", pAge);
 
-    printf("Size of age: %i bytes\n", sizeof(age));
-    printf("Size of pAge: %i bytes\n", sizeof(pAge)); // 4 bytes cause we're using a 32-bit based compiler
+    printf("Size of age: %lu bytes\n", sizeof(age));
+    printf("Size of pAge: %lu bytes\n", sizeof(pAge)); // 8 bytes cause we're using a 64-bit based compiler
 
     printAge(age);
     printAgePointer(pAge);
